@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luoqeng
-- 👀 I’m interested in Programming Languages
+- 👀 I’m interested in distributed consensus
 - 📫 How to reach me luoqeng@gmail.com
 
 <!---
